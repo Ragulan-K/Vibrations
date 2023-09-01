@@ -1,1 +1,1 @@
-# fdmsknfsmfls
+# In a collaborative Python Colab project, there are 50 questions and answers covering mechanics of dynamic mechanical systems, addressing various concepts and problems, aiding learners in understanding system behavior and Python implementation.
